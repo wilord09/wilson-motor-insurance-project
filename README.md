@@ -22,7 +22,7 @@ insurance decision-making.
 
 | File | Description |
 |------|-------------|
-| `Wilson_Dashboard_Streamlit_v2.py` | Interactive decision-support dashboard built in Python using Streamlit |
+| `wilson_project.py` | Interactive decision-support dashboard built in Python using Streamlit |
 | `Wilson_Analysis_Notebook.ipynb` | Full analysis notebook — data loading, EDA, forecasting models, regression |
 
 ## Key Findings
